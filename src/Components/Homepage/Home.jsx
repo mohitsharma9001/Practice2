@@ -28,7 +28,7 @@ const getData = ()=>{
       return <div style={{width:"300px"}}>
  <img src={data.image} alt="" width={"350px"}/>
       <h3>{data.title}</h3>
-    
+      <h4>{data.price}</h4>
       </div>
      
     })
