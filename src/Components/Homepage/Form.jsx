@@ -14,6 +14,7 @@ console.log(inputField)
 
     const submitButton = () =>{
         alert(inputField.first_name)
+        
     }
 
     return (

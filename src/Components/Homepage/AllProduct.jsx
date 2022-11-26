@@ -4,7 +4,6 @@ import React, { useState } from "react";
 
 
 export const AllProduct = () => {
-  const [isActive, setActive] = useState("false");
   const [show,setShow]=useState(true)
   const [data,setData] = useState(true)
  
