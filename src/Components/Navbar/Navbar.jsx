@@ -9,7 +9,7 @@ export const Navbar = () => {
     <div style={{display : "flex",justifyContent : "space-around",width: "50%",fontSize : '20px',fontWeight : "600"}}>
 
     <Link to={"/"}>Home</Link>
-    <Link to={"/product"}>Product</Link>
+    <Link to={"/AllUser"}>User</Link>
     <Link to={"/form"}>Form</Link>
     <Link>Login</Link>
   
